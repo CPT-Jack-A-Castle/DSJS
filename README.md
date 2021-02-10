@@ -11,7 +11,7 @@ Sample runs
 ----
 
 ```
-$ python dsjs.py 
+$ python3 dsjs.py 
 Damn Small JS Scanner (DSJS) < 100 LoC (Lines of Code) #v0.2a
  by: Miroslav Stampar (@stamparm)
 
@@ -28,7 +28,7 @@ Options:
 ```
 
 ```
-$ python dsjs.py -u "www.microsoft.com"
+$ python3 dsjs.py -u "www.microsoft.com"
 Damn Small JS Scanner (DSJS) < 100 LoC (Lines of Code) #v0.2a
  by: Miroslav Stampar (@stamparm)
 
@@ -39,7 +39,7 @@ scan results: possible vulnerabilities found
 ```
 
 ```
-$ python dsjs.py -u "www.twitter.com"
+$ python3 dsjs.py -u "www.twitter.com"
 Damn Small JS Scanner (DSJS) < 100 LoC (Lines of Code) #v0.2a
  by: Miroslav Stampar (@stamparm)
 
